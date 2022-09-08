@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1662220352752",
+        "name": "t",
+        "mail": "t",
+        "password": "$2b$10$hz.1HC.skPn3r3CFQhBFP.Gj2upMkPpyGkYFtE1qe0RFWYqHbh9uO"
+    },
+    {
+        "id": "1662220376954",
+        "name": "w",
+        "mail": "w",
+        "password": "$2b$10$braZ3XZyN/rJdLOA5ZmDYuWt51qCeqC46PK2zRj5.eRxXkcb42eBG"
+    },
+    {
+        "id": "1662231852080",
+        "name": "r",
+        "mail": "r",
+        "password": "$2b$10$6HAs92Y0CDM9wxKpfk0dn.A.ziS6WQLj6J01FZ9Hnb2nGWQ.UX4bK"
+    },
+    {
+        "id": "1662235053443",
+        "name": "d",
+        "mail": "d",
+        "password": "$2b$10$1KBk81hBhUTqAeRz3YJiK.0zibjPCQLdlYS9Svmd1Q7X16.Crynzu"
+    },
+    {
+        "id": "1662236242596",
+        "name": "a",
+        "mail": "a",
+        "password": "$2b$10$ScHokIP/5WzhAGumvIfT4eILnrirFBxn0eHIOyw0YSGRYT6JWCSam"
+    },
+    {
+        "id": "1662239318513",
+        "name": "e",
+        "mail": "e",
+        "password": "$2b$10$bUSYNVxk3f3LsWLjh4sfsem5uQXiQZ2xgzuZrbJ/yNyu7yjzcb5Ei"
+    }
+]
